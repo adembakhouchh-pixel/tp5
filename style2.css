@@ -1,0 +1,19 @@
+table,tr,th,td{
+    border: solid 3px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th,tr,td{
+    text-align: center;
+    padding: 12px;
+    background-color: aquamarine;
+}
+table{
+    text-align: center;
+    margin-left: 2px;
+}
+th:hover{
+    color: bisque;
+}
+
